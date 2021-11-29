@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/test-task",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "vladv",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^9.5",
+    "ext-mbstring": "*"
+  }
+}
